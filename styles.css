@@ -10,7 +10,7 @@ html, body{
 }
 .play-button{
     position: relative;
-    top: 50%;
+    top: 500px;
     left: 50%;
     width: 5%;
     filter: invert(100%);
