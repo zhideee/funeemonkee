@@ -4,5 +4,5 @@ function startmusic(){
     document.getElementById("play-button").style.cursor = "default";
 }
 function happymonkeycircle(){
-    window.location.replace("hmc.html")
+    window.location.replace("vids/hmc.mp4")
 }
